@@ -1,6 +1,6 @@
 # IMC.PYTHON
 
-## Projeto Calculadora de IMC em Python
+## Projeto Calculadora de IMC em Python ✅
 
 Este projeto consiste no desenvolvimento de uma Calculadora de IMC (Índice de Massa Corporal) utilizando a linguagem Python. O objetivo principal foi colocar em prática conceitos fundamentais de programação por meio da criação de uma aplicação simples, funcional e interativa.
 
