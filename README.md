@@ -40,4 +40,4 @@ Esse projeto também pode servir como base para futuras melhorias, como:
 
 O desenvolvimento desta atividade foi fundamental para reforçar conhecimentos básicos em Python e entender melhor como transformar lógica em aplicações funcionais.
 
-![imagem]
+![imagem](https://github.com/maaarcella/IMC.PYTHON/blob/main/foto1.png)
