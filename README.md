@@ -39,3 +39,5 @@ Esse projeto também pode servir como base para futuras melhorias, como:
 * Versão web ou mobile
 
 O desenvolvimento desta atividade foi fundamental para reforçar conhecimentos básicos em Python e entender melhor como transformar lógica em aplicações funcionais.
+
+![imagem]
